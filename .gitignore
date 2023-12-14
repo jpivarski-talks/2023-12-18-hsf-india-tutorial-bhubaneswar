@@ -6,3 +6,4 @@ quadratic_formula_pybind11.so
 quadratic_formula_pybind11_noloop.cpp
 quadratic_formula_pybind11_noloop.so
 mydask.png
+.virtual_documents
